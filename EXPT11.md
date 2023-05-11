@@ -3,7 +3,7 @@ Give this Repository a ⭐️⭐️ Star ⭐️⭐️ for updates.
 COPY PASTE ALL THE QUERIES ONE BY ONE IN SQLPLUS TO EXECUTE IT WITHOUT ANY ERROR
 ```
 
-# PL/SQL Functions
+# PL/SQL Procedures
 # ** Execute this command in sqlplus 1st **
 ## TO display output in the screen – give the below command initially 
 ```sql
